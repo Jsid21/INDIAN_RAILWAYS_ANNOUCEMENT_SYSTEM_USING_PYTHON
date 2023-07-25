@@ -22,4 +22,4 @@ IT SUPPORTS ANNOUNCEMENT IN THREE DIFFERENT LANGUAGES I.E. MARATHI, HINDI AND EN
  * enter value as path of audio file. and save it.
 
 ## Demo :
-
+[click here for demo video](https://drive.google.com/file/d/1OgRMOcPisCWVJ3_7nSv0pWA332TFCBfv/view?usp=drive_link)
